@@ -2,7 +2,7 @@
 Tableau dashboard analyzing sales performance, revenue trends, and order activity across product categories, countries, and devices.
 
 ## Dashboard Preview
-
+![Dashboard Preview](sales-preview.png)
 
 ## Business Task
 Analyze company sales performance using revenue and order data to identify trends across product categories, countries, and devices.
