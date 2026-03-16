@@ -8,7 +8,7 @@ Tableau dashboard analyzing sales performance, revenue trends, and order activit
 Analyze company sales performance using revenue and order data to identify trends across product categories, countries, and devices.
 
 ## Tools
-Tableau, Dashboard Design, Data Visualization, KPI Analysis
+Tableau, Data Visualization, Dashboard Design, KPI Analysis
 
 ## Key Insights
 - Total revenue exceeds $31M with more than 33K orders.
